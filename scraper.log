@@ -1,0 +1,24 @@
+2025-04-23 17:06:58 | INFO | Starting scraping process...
+2025-04-23 17:06:58 | WARNING | Value NEW not in supported values ['New', 'Used', 'Refurbished'] for filter condition in ElectrodomesticosScraper
+2025-04-23 17:06:58 | WARNING | Filters are not supported for electrodomesticos
+2025-04-23 17:06:58 | WARNING | Value NEW not in supported values ['New', 'Used', 'Refurbished'] for filter condition in PlazaLamaScraper
+2025-04-23 17:06:58 | WARNING | Filters are not supported for plazalama
+2025-04-23 17:06:58 | INFO | Results saved to deals_output.json
+2025-04-23 17:06:58 | INFO | Scraped 0 deals in total
+2025-04-23 17:30:13 | INFO | Starting scraping process...
+2025-04-23 17:30:13 | WARNING | Value NEW not in supported values ['New', 'Used', 'Refurbished'] for filter condition in ElectrodomesticosScraper
+2025-04-23 17:30:13 | WARNING | Filters are not supported for electrodomesticos
+2025-04-23 17:30:13 | WARNING | Value NEW not in supported values ['New', 'Used', 'Refurbished'] for filter condition in PlazaLamaScraper
+2025-04-23 17:30:13 | WARNING | Filters are not supported for plazalama
+2025-04-23 17:30:13 | INFO | Results saved to deals_output.json
+2025-04-23 17:30:13 | INFO | Scraped 0 deals in total
+2025-04-23 17:31:46 | INFO | Starting scraping process...
+2025-04-23 17:32:47 | INFO | Scraped 0 deals from electrodomesticos
+2025-04-23 17:33:54 | INFO | Scraped 0 deals from plazalama
+2025-04-23 17:33:54 | INFO | Results saved to deals_output.json
+2025-04-23 17:33:54 | INFO | Scraped 0 deals in total
+2025-04-23 18:06:31 | INFO | Starting scraping process...
+2025-04-23 18:07:32 | INFO | Scraped 0 deals from electrodomesticos
+2025-04-23 18:08:47 | INFO | Scraped 0 deals from plazalama
+2025-04-23 18:08:48 | INFO | Results saved to deals_output.json
+2025-04-23 18:08:48 | INFO | Scraped 0 deals in total
